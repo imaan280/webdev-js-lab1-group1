@@ -1,4 +1,4 @@
-({
+(()=>{
 let imageAr = [
     'images/view1.jpg',
     'images/view2.jpg',
