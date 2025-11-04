@@ -1,4 +1,4 @@
-// js/main.js
+({
 let imageAr = [
     'images/view1.jpg',
     'images/view2.jpg',
@@ -35,3 +35,5 @@ setTimeout(function() {
 }, 10000);
 
 document.getElementById('myImages').addEventListener('click', chgImage);
+
+})()
